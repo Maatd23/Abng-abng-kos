@@ -1,0 +1,57 @@
+[
+  {
+    "name": "The Springfield",
+    "address": "Jalan Kebon Jeruk No. 25",
+    "rooms": 3,
+    "price": 1500000,
+    "region": "Jakarta Barat",
+    "longitude": "-6.8567296",
+    "latitude": "107.5395163",
+    "imgUrl": "https://dummyimage.com/600x400/000/fff",
+    "UserId": 1
+  },
+  {
+    "name": "Kost Casanova",
+    "address": "Jalan Diponegoro No. 78",
+    "rooms": 2,
+    "price": 1200000,
+    "region": "Surabaya",
+    "longitude": "-7.257472",
+    "latitude": "112.752088",
+    "imgUrl": "https://dummyimage.com/600x400/000/fff",
+    "UserId": 3
+  },
+  {
+    "name": "kost bik Ti",
+    "address": "Jalan Jemursari No. 15",
+    "rooms": 4,
+    "price": 1800000,
+    "region": "Surabaya",
+    "longitude": "-7.307883",
+    "latitude": "112.714971",
+    "imgUrl": "https://dummyimage.com/600x400/000/fff",
+    "UserId": 3
+  },
+  {
+    "name": "Kost putri griya cinderella",
+    "address": "Jalan MT Haryono No. 57",
+    "rooms": 1,
+    "price": 700000,
+    "region": "Malang",
+    "longitude": "-7.981894",
+    "latitude": "112.630065",
+    "imgUrl": "https://dummyimage.com/600x400/000/fff",
+    "UserId": 1
+  },
+  {
+    "name": "Kost KARET 10",
+    "address": "Jalan Sudirman No. 10",
+    "rooms": 2,
+    "price": 1000000,
+    "region": "Bandung",
+    "longitude": "-6.914864",
+    "latitude": "107.609810",
+    "imgUrl": "https://dummyimage.com/600x400/000/fff",
+    "UserId": 3
+  }
+]

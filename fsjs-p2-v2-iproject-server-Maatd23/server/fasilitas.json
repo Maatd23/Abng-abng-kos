@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "AC"
+  },
+  {
+    "id": 2,
+    "name": "Kamar mandi dalam"
+  },
+  {
+    "id": 3,
+    "name": "WiFi"
+  },
+  {
+    "id": 4,
+    "name": "Kipas angin"
+  },
+  {
+    "id": 5,
+    "name": "Kamar mandi luar"
+  },
+  {
+    "id": 6,
+    "name": "Dapur bersama"
+  },
+  {
+    "id": 7,
+    "name": "TV"
+  },
+  {
+    "id": 8,
+    "name": "Lemari"
+  },
+  {
+    "id": 9,
+    "name": "Meja dan kursi"
+  },
+  {
+    "id": 10,
+    "name": "Parkir motor"
+  }
+]

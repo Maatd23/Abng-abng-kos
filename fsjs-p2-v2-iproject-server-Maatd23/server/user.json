@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "mypassword123",
+    "address": "Jalan Kebon Jeruk No. 25",
+    "handphone": "081234567890",
+    "role": "owner"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "secretpassword",
+    "address": "Jalan Diponegoro No. 78",
+    "handphone": "089876543210",
+    "role": "customer"
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "password": "mytopsecretpassword",
+    "address": "Jalan Jemursari No. 15",
+    "handphone": "081234567890",
+    "role": "owner"
+  }
+]
